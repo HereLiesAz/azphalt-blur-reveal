@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Each word resolves out of a heavy blur as it fades up, one after the next.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
